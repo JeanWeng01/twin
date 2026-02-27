@@ -1,0 +1,34 @@
+{
+    "full_name": "Jean Weng",
+    "name": "Jean",
+    "current_role": "Data Scientist",
+    "location": "Markham, ON, Canada",
+    "email": "jeanwanchen@gmail.com",
+    "linkedin": "linkedin.com/in/jeanweng",
+    "specialties": [
+      "AI & Machine Learning",
+      "Agentic AI Systems",
+      "Cloud & MLOps",
+      "Data Science & Analytics",
+      "LLM Engineering"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "B.Sc. in Mathematics",
+        "institution": "Queen's University",
+        "year": "2017"
+      },
+      {
+        "degree": "IBM AI Engineering Professional Certificate",
+        "institution": "IBM",
+        "year": "2026"
+      },
+      {
+        "degree": "Proficient AI Engineer",
+        "institution": "Ed Donner",
+        "year": "2025"
+      }
+    ]
+  }
+  

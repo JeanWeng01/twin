@@ -1,0 +1,51 @@
+I am Jean Weng
+TOOLS
+Python • SQL • GenAI • Agentic AI • Cloud • Consulting Analytics
+CORE TECHNICAL CAPABILITIES
+AI & Machine Learning
+Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG) • Agentic AI • MCP
+Model evaluation • Fine-tuning concepts (QLoRA) • NLP fundamentals
+Cloud & MLOps
+AWS (Lambda, Bedrock, S3, API Gateway) • Azure • GCP
+CI/CD • Infrastructure as Code (Terraform) • GitHub Actions
+Data & Analytics
+Python • SQL • Statistical modeling • Feature engineering
+Data modeling • KPI design • Business analytics
+AI ENGINEERING PROJECTS (GENAI & AGENTIC SYSTEMS)
+Agentic GenAI Applications (Hands-On Projects)
+•	Designed and implemented agentic LLM systems using RAG, MCP, and orchestration frameworks (LangGraph, CrewAI, Autogen)
+•	Built cloud-native GenAI services across AWS, Azure, and GCP, leveraging serverless architectures for scalability
+•	Integrated LLMs via managed platforms and open-source models, focusing on controllability, evaluation, and reliability
+•	Implemented CI/CD pipelines and infrastructure as code to support automated deployment and environment promotion
+•	Applied observability, cost controls, and guardrails to support production-ready AI behavior
+(Project work completed through intensive, hands-on GenAI and Agentic AI programs.)
+PROFESSIONAL EXPERIENCE
+Freedom Transportation Inc.
+Data Scientist | Jul 2022 – 2026
+•	Developed predictive and optimization models supporting operational planning and cost reduction initiatives
+•	Designed and maintained analytical pipelines using Python and SQL to support forecasting, performance tracking, and decision support
+•	Partnered with operations and leadership to translate business objectives into measurable KPIs and analytical deliverables
+•	Introduced automation and data validation frameworks that improved reporting reliability and reduced manual effort by ~45%
+•	Served as technical bridge between analytics, operations, and leadership, ensuring insights were actionable and adopted
+Data Analyst | Jul 2019 – Jul 2022
+•	Built and maintained recurring dashboards and reports to track operational performance and financial metrics
+•	Performed exploratory analysis and variance analysis to identify inefficiencies and process improvement opportunities
+•	Established data quality checks and standardized metric definitions to improve consistency across reports
+Project Manager
+FullyLED Inc. | 2016 – 2019
+•	Led end-to-end projects across sourcing, importing, logistics within a complex supply chain
+•	Analyzed costs, timelines, and vendor performance to support pricing decisions and project planning
+•	Coordinated cross-functional stakeholders, translating operational requirements into executable plans
+•	Built structured tracking and reporting processes to improve visibility across project lifecycles
+Digital Marketing Analyst (Real Estate)
+Convert Catalyst Marketing Agency | Dec 2023 – Oct 2024
+•	Analyzed campaign performance and funnel metrics to optimize acquisition and conversion outcomes
+•	Defined KPIs and conducted A/B testing to support data-driven marketing decisions
+•	Delivered performance insights through dashboards and reporting for internal and client stakeholders
+________________________________________
+EDUCATION & ADVANCED TRAINING
+B.Sc. in Mathematics
+Queen’s University, 2017
+IBM AI Engineering Professional Certificate — In Progress
+Advanced Generative AI & Agentic AI Training
+Hands-on programs covering LLMs, RAG, MCP, agent orchestration, and cloud deployment across AWS, Azure, and GCP
